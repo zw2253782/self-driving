@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wei/AndroidStudioProjects/SelfDriving-master (2)/openCVLibrary320/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7a1452f7a9ddff558f10607aaaf1a68cb626144">
+        <dex dex="/home/wei/AndroidStudioProjects/SelfDriving-master (2)/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_261be2bcdafd730bc26833401c884bc26c149455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wei/AndroidStudioProjects/SelfDriving-master (2)/app/src/main/jniLibs/usbserial.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="450a08132dff830581b2b82c380c5f32488159d3">
+        <dex dex="/home/wei/AndroidStudioProjects/SelfDriving-master (2)/app/build/intermediates/transforms/dex/debug/folders/1000/2/usbserial_472213237f2a614c093ea111e8c61f6284b666ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wei/.android/build-cache/a315a5b7db25b8b16720bc7cbb6aa6ff815566fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/wei/AndroidStudioProjects/SelfDriving-master (2)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_132d0adfb8fa0949bf66b9214ed34ec05a113a09/classes.dex" />
+    </item>
+
+</items>
